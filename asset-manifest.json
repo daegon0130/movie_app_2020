@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/daegon0130/movie_app_2020/static/css/main.a5af036e.chunk.css",
+    "main.js": "/daegon0130/movie_app_2020/static/js/main.1b70b888.chunk.js",
+    "main.js.map": "/daegon0130/movie_app_2020/static/js/main.1b70b888.chunk.js.map",
+    "runtime-main.js": "/daegon0130/movie_app_2020/static/js/runtime-main.1bdff42e.js",
+    "runtime-main.js.map": "/daegon0130/movie_app_2020/static/js/runtime-main.1bdff42e.js.map",
+    "static/js/2.968ebb96.chunk.js": "/daegon0130/movie_app_2020/static/js/2.968ebb96.chunk.js",
+    "static/js/2.968ebb96.chunk.js.map": "/daegon0130/movie_app_2020/static/js/2.968ebb96.chunk.js.map",
+    "index.html": "/daegon0130/movie_app_2020/index.html",
+    "precache-manifest.8a6c0f678e47bbf0e0ebd6539f604c54.js": "/daegon0130/movie_app_2020/precache-manifest.8a6c0f678e47bbf0e0ebd6539f604c54.js",
+    "service-worker.js": "/daegon0130/movie_app_2020/service-worker.js",
+    "static/css/main.a5af036e.chunk.css.map": "/daegon0130/movie_app_2020/static/css/main.a5af036e.chunk.css.map",
+    "static/js/2.968ebb96.chunk.js.LICENSE.txt": "/daegon0130/movie_app_2020/static/js/2.968ebb96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bdff42e.js",
+    "static/js/2.968ebb96.chunk.js",
+    "static/css/main.a5af036e.chunk.css",
+    "static/js/main.1b70b888.chunk.js"
+  ]
+}
