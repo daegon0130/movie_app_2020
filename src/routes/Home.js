@@ -18,6 +18,9 @@ class Home extends React.Component {
       "https://yts-proxy.now.sh/list_movies.json?sort_by=rating"
     );
     this.setState({ movies, isLoading: false });
+    
+    //const movies = await axios.get("https://yts-proxy.now.sh/list_movies.json?sort_by=rating");
+    //this.setState({ movies: movies.data.data.movies, isLoading: false });
   };
 
   componentDidMount() {
